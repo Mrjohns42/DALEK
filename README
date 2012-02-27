@@ -1,0 +1,1 @@
+This is v1.0 of the DALEK USB defense turret driver. It is meant to interact with the web interface via stdin. The driver accepts letters to stdin pertaining to specific commands. These command mappings can be found in dalek.py
